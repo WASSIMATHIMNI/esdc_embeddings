@@ -1,3 +1,8 @@
+#specific ones
+data/crawl_data(7379 pages - employment-social-development).csv
+*.DS_STORE
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
