@@ -1,5 +1,6 @@
 #specific ones
-data/crawl_data(7379 pages - employment-social-development).csv
+data/*.csv
+data/*.vec
 *.DS_STORE
 
 
